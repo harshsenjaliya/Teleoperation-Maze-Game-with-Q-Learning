@@ -44,8 +44,8 @@ Optional (for experiments & plotting):
 
 ```bash
 # Clone the repo
-git clone https://github.com/harsh/teleoperation-maze-game.git
-cd teleoperation-maze-game
+git clone https://github.com/harshsenjaliya/Teleoperation-Maze-Game-with-Q-Learning.git
+cd Teleoperation-Maze-Game-with-Q-Learning
 
 # (Optional) Create & activate a venv
 python3 -m venv venv
